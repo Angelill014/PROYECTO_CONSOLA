@@ -1,6 +1,6 @@
 # **PROYECTO CONSOLA 2022**
  ## Introducción
-  En este _repositorio_ voy a ir guardando todo lo que vaya haciendo y aprendiendo a lo largo de este curso de **Diseño de Aplicaciones Web** de nivel 3 desarrollado en el **IES Peñas Negras** de **_Mora (Toledo)_**.
+  En este _repositorio_ vamos a ir guardando todo lo que vayamos haciendo y aprendiendo a lo largo de este curso de **Diseño de Aplicaciones Web** de nivel 3 desarrollado en el **IES Peñas Negras** de **_Mora (Toledo)_**.
 
 ## Requisitos
  Los requisitos para desarrollar dicho curso son los siguientes:
