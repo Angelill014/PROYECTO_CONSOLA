@@ -13,3 +13,5 @@
 - [Git](https://git-scm.com/download/win)
 - [Dotnet Sdk](https://dotnet.microsoft.com/en-us/download/dotnet/3.1)
 - [Visual Studio Community](https://visualstudio.microsoft.com/es/vs/community/)
+
+Si quieres consultar más, consulta _la página web_ del [**IES Peñas Negras**](http://ies-pnegras.centros.castillalamancha.es/)
